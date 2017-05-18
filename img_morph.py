@@ -8,6 +8,7 @@ import imutils
 import argparse
 import time
 
+#default file
 file_path="inputs_1.txt"
 ap = argparse.ArgumentParser()
 ap.add_argument("-i", "--input_file", required=False,
