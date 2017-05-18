@@ -4,6 +4,11 @@ Morph face images from different viewpoint to produce enhanced face
 This tool requires a set of five images to be stored in the folder.
 The image is assumed to be of resolution 300x300
 
+Note:
+The tool needs the dlib's default face landmark model file(shape_predictor_68_face_landmarks.dat).
+This can be downloaded from here
+http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+
 #Usage:
 To run the tool,
 python img_morph.py /path_to_txt_file_containing_the_five_images.txt
