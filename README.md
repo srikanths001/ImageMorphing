@@ -1,6 +1,8 @@
 # ImageMorphing
 Morph face images from different viewpoint to produce enhanced face
 
+Example results are shown in 'results/' folder.
+
 This tool requires a set of five images to be stored in the folder.
 The image is assumed to be of resolution 300x300
 
