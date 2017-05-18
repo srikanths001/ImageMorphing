@@ -1,0 +1,5 @@
+face_db_1/face_0.jpg
+face_db_1/face_1.jpg
+face_db_1/face_2.jpg
+face_db_1/face_3.jpg
+face_db_1/face_4.jpg
