@@ -17,7 +17,7 @@ args = vars(ap.parse_args())
 if args["input_file"] is not None:
     file_path=args["input_file"]
 else:
-    file_path="files.txt"
+    file_path="inputs_1.txt"
 
 detector = dlib.get_frontal_face_detector()
 predictor = dlib.shape_predictor("shape_predictor_68_face_landmarks.dat")
