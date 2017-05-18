@@ -8,6 +8,7 @@ Note:
 The tool needs the dlib's default face landmark model file(shape_predictor_68_face_landmarks.dat).
 This can be downloaded from here
 http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
+The landmark model file should be extracted and saved in the main directory 'ImageMorphing/'
 
 #Usage:
 To run the tool,
